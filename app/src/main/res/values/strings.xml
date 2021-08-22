@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserInputApp</string>
+    <string name="firstname">FirstName</string>
+    <string name="submit_text">SUBMIT</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="email_address">Email address</string>
+    <string name="zuri_logo_image">zuri_logo_image</string>
+</resources>

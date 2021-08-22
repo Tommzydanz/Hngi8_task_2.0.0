@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="email_address">Email address</string>
+    <string name="zuri_logo_image">zuri_logo_image</string>
+</resources>
